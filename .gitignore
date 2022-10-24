@@ -1,0 +1,11 @@
+resources/cache
+.idea
+TODO.txt
+__pycache__/
+*.pyc
+AIToolbox
+AI-Toolbox
+AIToolbox.so
+venv
+TODO
+old/
